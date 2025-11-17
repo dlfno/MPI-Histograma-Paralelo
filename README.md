@@ -66,7 +66,7 @@ El objetivo principal de realzar la textura se cumple exitosamente. Al comparar 
 
 | Canal Rojo - Original | Canal Rojo - Ecualizado |
 | :---: | :---: |
-| ![Herida Original - Canal Rojo](example_images/channel_Red_0_original.png) | ![Herida Ecualizada - Canal Rojo](example_images/channel_Red_1_equalized.png) |
+| ![Herida Original - Canal Rojo](example_images/channel_Red_0_original.png) | ![Herida Ecualizada - Canal Rojo](example_images/channel_Red_1_ecualizada.png) |
 | (Textura perdida en el brillo) | (Textura y bordes claramente visibles) |
 ### 2. Distorsión de Color (Efecto Esperado)
 
@@ -74,7 +74,7 @@ La imagen final a color (`imagen_ecualizada_final.png`) presentará una **fuerte
 
 | Imagen Original | Imagen Ecualizada (RGB) |
 | :---: | :---: |
-| ![Herida Original a Color](example_images/Heridas%20Foto%20May%2028%202019.jpg) | ![Herida Ecualizada con Distorsión](example_images/image_ecualizada_final.png) || Imagen Original | Imagen Ecualizada (RGB) |
+| ![Herida Original a Color](example_images/Heridas%20Foto%20May%2028%202019.jpg) | ![Herida Ecualizada con Distorsión](example_images/imagen_ecualizada_final.png) || Imagen Original | Imagen Ecualizada (RGB) |
 | :---: | :---: |
 | `` | `` |
 
