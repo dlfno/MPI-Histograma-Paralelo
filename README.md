@@ -75,7 +75,5 @@ La imagen final a color (`imagen_ecualizada_final.png`) presentará una **fuerte
 | Imagen Original | Imagen Ecualizada (RGB) |
 | :---: | :---: |
 | ![Herida Original a Color](example_images/Heridas%20Foto%20May%2028%202019.jpg) | ![Herida Ecualizada con Distorsión](example_images/imagen_ecualizada_final.png) || Imagen Original | Imagen Ecualizada (RGB) |
-| :---: | :---: |
-| `` | `` |
 
 Esto **no es un error**. Es el resultado esperado de ecualizar los canales R, G y B de forma independiente, lo cual rompe el balance de color original. Este proyecto demuestra *cómo* paralelizar la tarea, y el resultado visual es una lección clave sobre el procesamiento de color.
