@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Archivos de OS
+.DS_Store
+
+# Archivos de salida generados por el script
+# (Ignora todos los png/jpg EXCEPTO los que están
+# en una carpeta llamada 'example_images' para el README)
+*.png
+!example_images/*.png
+
+*.jpg
+!example_images/*.jpg
