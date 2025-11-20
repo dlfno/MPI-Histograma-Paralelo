@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 1.  Clona este repositorio:
     ```bash
-    git https://github.com/dlfno/MPI-en-an-lisis-de-Im-genes-m-dicas
+    git clone https://github.com/dlfno/MPI-Histograma-Paralelo
     cd MPI_En_Análisis_Imágenes_Médicas
     ```
 
