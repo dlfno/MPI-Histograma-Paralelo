@@ -43,7 +43,7 @@ pip install -r requirements.txt
 1.  Clona este repositorio:
     ```bash
     git clone https://github.com/dlfno/MPI-Histograma-Paralelo
-    cd MPI_En_Análisis_Imágenes_Médicas
+    cd MPI-Histograma-Paralelo
     ```
 
 2.  Instala las dependencias:
